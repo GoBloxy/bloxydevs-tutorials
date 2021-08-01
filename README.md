@@ -44,3 +44,5 @@ Some Uses of Lua
 -   Extensions and add-ons for databases like MySQL Proxy and MySQL WorkBench
 
 -   Security systems like Intrusion Detection System.
+-----------------------------------------------------
+Next ➡️ [Environment](https://github.com/GoBloxy/bloxydevs-tutorials/blob/main/environment.md)
